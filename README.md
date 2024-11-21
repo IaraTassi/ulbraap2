@@ -66,3 +66,5 @@ O projeto inclui testes para verificar o funcionamento dos métodos das classes 
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+👨‍💻 Autor Desenvolvido por Iara Tassi
