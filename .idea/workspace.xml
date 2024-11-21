@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c269b24c-45b3-4951-ac6f-3ff7c392af85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulbraap2/com/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CarroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MotoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ulbraap2/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ulbraap2/com/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in ulbraap2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ulbraap2.com.Main" />
       <module name="ulbraap2" />
@@ -61,31 +61,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in ulbraap2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ulbraap2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ulbraap2" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CarroTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarroTest.deveTestarAnoInvalidoParaCarro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ulbraap2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CarroTest" />
-      <option name="METHOD_NAME" value="deveTestarAnoInvalidoParaCarro" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarroTest.deveTestarInformacoesDoCarro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ulbraap2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CarroTest" />
-      <option name="METHOD_NAME" value="deveTestarInformacoesDoCarro" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,13 +87,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MotoTest.deveTestarInformacoesDaMoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ulbraap2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MotoTest" />
+      <option name="METHOD_NAME" value="deveTestarInformacoesDaMoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in ulbraap2" />
         <item itemvalue="JUnit.CarroTest" />
         <item itemvalue="JUnit.MotoTest" />
-        <item itemvalue="JUnit.CarroTest.deveTestarAnoInvalidoParaCarro" />
-        <item itemvalue="JUnit.CarroTest.deveTestarInformacoesDoCarro" />
+        <item itemvalue="JUnit.MotoTest.deveTestarInformacoesDaMoto" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
